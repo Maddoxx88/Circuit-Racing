@@ -1,0 +1,1035 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd64.dll 9.17.10.2849]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     848 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.360 seconds
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Downloads\Circuit Racing\Circuit Racing_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 25.501730 ms
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 51.558903 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.399445 ms (FindLiveObjects: 0.030789 ms CreateObjectMapping: 0.040642 ms MarkObjects: 0.247139 ms  DeleteObjects: 0.035716 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.640837 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.357982 ms (FindLiveObjects: 0.032021 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.274234 ms  DeleteObjects: 0.027505 ms)
+
+Diff 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.529584 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.449120 ms (FindLiveObjects: 0.040642 ms CreateObjectMapping: 0.028737 ms MarkObjects: 0.355929 ms  DeleteObjects: 0.023400 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.126905 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.480730 ms (FindLiveObjects: 0.036537 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.330476 ms  DeleteObjects: 0.091958 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.660953 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.435983 ms (FindLiveObjects: 0.032431 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.346898 ms  DeleteObjects: 0.033663 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537794 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.337455 ms (FindLiveObjects: 0.032431 ms CreateObjectMapping: 0.022989 ms MarkObjects: 0.257813 ms  DeleteObjects: 0.023400 ms)
+
+Diff 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.571458 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.591163 ms (FindLiveObjects: 0.088264 ms CreateObjectMapping: 0.025042 ms MarkObjects: 0.444193 ms  DeleteObjects: 0.031200 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.671216 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.627700 ms (FindLiveObjects: 0.036126 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.434751 ms  DeleteObjects: 0.131780 ms)
+
+Mode 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+We would normally load a multiplayer game here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mode 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+We would normally load a multiplayer game here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mode 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+We would normally load a multiplayer game here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.684764 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.402730 ms (FindLiveObjects: 0.034895 ms CreateObjectMapping: 0.022579 ms MarkObjects: 0.314055 ms  DeleteObjects: 0.029147 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.556679 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.415867 ms (FindLiveObjects: 0.085800 ms CreateObjectMapping: 0.022579 ms MarkObjects: 0.279571 ms  DeleteObjects: 0.027094 ms)
+
+Diff 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521373 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.415046 ms (FindLiveObjects: 0.036947 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.330476 ms  DeleteObjects: 0.024221 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.762765 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.556679 ms (FindLiveObjects: 0.045979 ms CreateObjectMapping: 0.031610 ms MarkObjects: 0.367014 ms  DeleteObjects: 0.110022 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.597732 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.370298 ms (FindLiveObjects: 0.029968 ms CreateObjectMapping: 0.019294 ms MarkObjects: 0.284497 ms  DeleteObjects: 0.035305 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543542 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.351824 ms (FindLiveObjects: 0.035305 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.266844 ms  DeleteObjects: 0.028737 ms)
+
+Diff 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.582542 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.483604 ms (FindLiveObjects: 0.059526 ms CreateObjectMapping: 0.024221 ms MarkObjects: 0.367424 ms  DeleteObjects: 0.031200 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614974 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.642069 ms (FindLiveObjects: 0.032842 ms CreateObjectMapping: 0.023810 ms MarkObjects: 0.445014 ms  DeleteObjects: 0.138348 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543952 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.335813 ms (FindLiveObjects: 0.027505 ms CreateObjectMapping: 0.016421 ms MarkObjects: 0.263560 ms  DeleteObjects: 0.027916 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.515215 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.353056 ms (FindLiveObjects: 0.031200 ms CreateObjectMapping: 0.024221 ms MarkObjects: 0.270539 ms  DeleteObjects: 0.025863 ms)
+
+Diff 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.550931 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.779186 ms (FindLiveObjects: 0.046800 ms CreateObjectMapping: 0.023810 ms MarkObjects: 0.676553 ms  DeleteObjects: 0.030379 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797660 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.629342 ms (FindLiveObjects: 0.037768 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.450351 ms  DeleteObjects: 0.117822 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.562836 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.332118 ms (FindLiveObjects: 0.022579 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.264381 ms  DeleteObjects: 0.024221 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497973 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.335813 ms (FindLiveObjects: 0.027094 ms CreateObjectMapping: 0.017652 ms MarkObjects: 0.268076 ms  DeleteObjects: 0.021758 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.576384 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.465951 ms (FindLiveObjects: 0.039821 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.377277 ms  DeleteObjects: 0.027094 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.663827 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.713912 ms (FindLiveObjects: 0.034895 ms CreateObjectMapping: 0.025452 ms MarkObjects: 0.518089 ms  DeleteObjects: 0.134653 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.578437 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.351413 ms (FindLiveObjects: 0.022168 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.279571 ms  DeleteObjects: 0.026684 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.489762 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.347308 ms (FindLiveObjects: 0.021347 ms CreateObjectMapping: 0.018884 ms MarkObjects: 0.279160 ms  DeleteObjects: 0.027094 ms)
+
+Go back to car selection!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538615 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.373172 ms (FindLiveObjects: 0.032431 ms CreateObjectMapping: 0.019294 ms MarkObjects: 0.296813 ms  DeleteObjects: 0.023400 ms)
+
+Car 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.560373 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.440498 ms (FindLiveObjects: 0.028326 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.367014 ms  DeleteObjects: 0.022989 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.474162 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.408067 ms (FindLiveObjects: 0.025452 ms CreateObjectMapping: 0.017652 ms MarkObjects: 0.341561 ms  DeleteObjects: 0.022579 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.779596 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.692154 ms (FindLiveObjects: 0.034074 ms CreateObjectMapping: 0.024631 ms MarkObjects: 0.503310 ms  DeleteObjects: 0.128495 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543542 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.375224 ms (FindLiveObjects: 0.026273 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.298455 ms  DeleteObjects: 0.028737 ms)
+
+Car 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.603890 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.387951 ms (FindLiveObjects: 0.029147 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.314876 ms  DeleteObjects: 0.022579 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473341 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.552984 ms (FindLiveObjects: 0.034074 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.471699 ms  DeleteObjects: 0.025863 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.749628 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.550110 ms (FindLiveObjects: 0.027505 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.408477 ms  DeleteObjects: 0.092779 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478678 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.493867 ms (FindLiveObjects: 0.032842 ms CreateObjectMapping: 0.022989 ms MarkObjects: 0.407656 ms  DeleteObjects: 0.029147 ms)
+
+Car 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.500436 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.376866 ms (FindLiveObjects: 0.020526 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.312413 ms  DeleteObjects: 0.022168 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.549289 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.476215 ms (FindLiveObjects: 0.035716 ms CreateObjectMapping: 0.022579 ms MarkObjects: 0.394109 ms  DeleteObjects: 0.023400 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.721712 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.732385 ms (FindLiveObjects: 0.025452 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.412582 ms  DeleteObjects: 0.272181 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483194 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.363729 ms (FindLiveObjects: 0.020115 ms CreateObjectMapping: 0.017242 ms MarkObjects: 0.298455 ms  DeleteObjects: 0.027094 ms)
+
+Car 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.508236 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.409709 ms (FindLiveObjects: 0.027505 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.338687 ms  DeleteObjects: 0.020937 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536563 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.459383 ms (FindLiveObjects: 0.032021 ms CreateObjectMapping: 0.022989 ms MarkObjects: 0.380972 ms  DeleteObjects: 0.022579 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.791091 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.754554 ms (FindLiveObjects: 0.036537 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.564889 ms  DeleteObjects: 0.130548 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.492225 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.412582 ms (FindLiveObjects: 0.024631 ms CreateObjectMapping: 0.019705 ms MarkObjects: 0.340329 ms  DeleteObjects: 0.027094 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.570637 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.418330 ms (FindLiveObjects: 0.029968 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.345666 ms  DeleteObjects: 0.022168 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552163 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.653974 ms (FindLiveObjects: 0.046389 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.559142 ms  DeleteObjects: 0.025863 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679017 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.548468 ms (FindLiveObjects: 0.025863 ms CreateObjectMapping: 0.019705 ms MarkObjects: 0.408067 ms  DeleteObjects: 0.093600 ms)
+
+Mode 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+We would normally load a multiplayer game here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mode 1 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+We would normally load a multiplayer game here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.489352 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.481141 ms (FindLiveObjects: 0.024631 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.407246 ms  DeleteObjects: 0.027094 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536563 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.470057 ms (FindLiveObjects: 0.025863 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.399445 ms  DeleteObjects: 0.022168 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497562 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.488120 ms (FindLiveObjects: 0.032431 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.412993 ms  DeleteObjects: 0.022168 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.720891 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.610458 ms (FindLiveObjects: 0.024631 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.470057 ms  DeleteObjects: 0.093190 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.556679 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.587058 ms (FindLiveObjects: 0.034074 ms CreateObjectMapping: 0.022579 ms MarkObjects: 0.495510 ms  DeleteObjects: 0.034074 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.499204 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.437625 ms (FindLiveObjects: 0.025452 ms CreateObjectMapping: 0.022989 ms MarkObjects: 0.367014 ms  DeleteObjects: 0.021758 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604711 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.520141 ms (FindLiveObjects: 0.034895 ms CreateObjectMapping: 0.023400 ms MarkObjects: 0.435572 ms  DeleteObjects: 0.024221 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.753323 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.779186 ms (FindLiveObjects: 0.034484 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.587468 ms  DeleteObjects: 0.134243 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519320 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.415046 ms (FindLiveObjects: 0.021347 ms CreateObjectMapping: 0.016421 ms MarkObjects: 0.351824 ms  DeleteObjects: 0.025042 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.503720 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.436393 ms (FindLiveObjects: 0.021347 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.373993 ms  DeleteObjects: 0.021758 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.508646 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.484015 ms (FindLiveObjects: 0.028737 ms CreateObjectMapping: 0.018473 ms MarkObjects: 0.413814 ms  DeleteObjects: 0.022168 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.768923 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.845692 ms (FindLiveObjects: 0.036126 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.651511 ms  DeleteObjects: 0.134653 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497562 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.408888 ms (FindLiveObjects: 0.019705 ms CreateObjectMapping: 0.017652 ms MarkObjects: 0.346077 ms  DeleteObjects: 0.025042 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.492636 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.582542 ms (FindLiveObjects: 0.027916 ms CreateObjectMapping: 0.021758 ms MarkObjects: 0.507004 ms  DeleteObjects: 0.025042 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.514394 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.551752 ms (FindLiveObjects: 0.029968 ms CreateObjectMapping: 0.021347 ms MarkObjects: 0.478267 ms  DeleteObjects: 0.021347 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.633858 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.598963 ms (FindLiveObjects: 0.029558 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.454046 ms  DeleteObjects: 0.091548 ms)
+
+Mode 0 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604711 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.501257 ms (FindLiveObjects: 0.028737 ms CreateObjectMapping: 0.020115 ms MarkObjects: 0.424898 ms  DeleteObjects: 0.026684 ms)
+
+Car 2 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Let's load up the menu!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.503720 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.607584 ms (FindLiveObjects: 0.028737 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.530815 ms  DeleteObjects: 0.025863 ms)
+
+Diff 3 was clicked!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.465130 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 0.511110 ms (FindLiveObjects: 0.027916 ms CreateObjectMapping: 0.019705 ms MarkObjects: 0.440498 ms  DeleteObjects: 0.022168 ms)
+
+Pad left is at (-0.1, 0.2, 10.0) and right is at (0.4, 0.2, 10.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Next lap finished!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.841176 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.707754 ms (FindLiveObjects: 0.030379 ms CreateObjectMapping: 0.022168 ms MarkObjects: 0.547236 ms  DeleteObjects: 0.107148 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20c8 -> priority: 1 
